@@ -4,7 +4,7 @@ AnchovyMultiPing
 AnchovyMultiPing is a multi-threaded IP ping solution to monitor the round trip time and determine the closest server with lowest ping latency.
 
 
-###ßResult:
+###Result:
 
     --- Multi Thread ---
 
